@@ -60,11 +60,6 @@ var movies = [
 		"saraSeen": false
 	},
 	{	
-		"title": "Nice Guys",
-		"gregSeen": false,
-		"saraSeen": false
-	},
-	{	
 		"title": "The Lobster",
 		"gregSeen": false,
 		"saraSeen": false
