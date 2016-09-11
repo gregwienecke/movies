@@ -5,6 +5,16 @@ var movies = [
 		"saraSeen": false
 	},
 	{
+		"title": "American Ultra",
+		"gregSeen": false,
+		"saraSeen": false
+	},
+	{
+		"title": "The Road",
+		"gregSeen": false,
+		"saraSeen": false
+	},
+	{
 		"title": "Logan's Run",
 		"gregSeen": false,
 		"saraSeen": false	
