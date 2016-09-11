@@ -83,6 +83,11 @@ var movies = [
 		"title": "Wilder People",
 		"gregSeen": false,
 		"saraSeen": false
+	},
+	{
+		"title": "Snowden",
+		"gregSeen": false,
+		"saraSeen": false
 	}
 ];
 
