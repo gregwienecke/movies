@@ -65,25 +65,20 @@ var movies = [
 		"saraSeen": false
 	},
 	{
-		"title": "Fantastic Beasts",
-		"gregSeen": false,
-		"saraSeen": false
-	},
+        	"title": "The Wind Journeys",
+        	"gregSeen": true,
+        	"saraSeen": false
+   	},
 	{
-        "title": "Rogue One",
-        "gregSeen": false,
-        "saraSeen": false
-    },
-	{
-        "title": "Hell or High Water",
-        "gregSeen": false,
-        "saraSeen": false
-    },
-    {
-        "title": "Manchester by the Sea",
-        "gregSeen": false,
-        "saraSeen": false
-    }    
+	        "title": "Hell or High Water",
+	        "gregSeen": false,
+	        "saraSeen": false
+    	},
+    	{
+	        "title": "Manchester by the Sea",
+	        "gregSeen": false,
+        	"saraSeen": false
+    	}    
 ];
 
 function returnAll(){
