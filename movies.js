@@ -1,22 +1,7 @@
 var movies = [
-	{	
-		"title": "Atonement",
+	{
+		"title": "Ex Machina",
 		"gregSeen": true,
-		"saraSeen": false
-	},
-	{
-		"title", "Ex Machina",
-		"gregSeen": true,
-		"saraSeen": false
-	},
-	{
-		"title": "American Ultra",
-		"gregSeen": false,
-		"saraSeen": false
-	},
-	{
-		"title": "The Road",
-		"gregSeen": false,
 		"saraSeen": false
 	},
 	{
@@ -60,38 +45,8 @@ var movies = [
 		"saraSeen": false
 	},
 	{	
-		"title": "Star Wars",
-		"gregSeen": true,
-		"saraSeen": true
-	},
-	{	
-		"title": "Embrace the Serpent",
-		"gregSeen": false,
-		"saraSeen": false
-	},
-	{	
-		"title": "Neon Demon",
-		"gregSeen": false,
-		"saraSeen": false
-	},
-	{	
-		"title": "The Lobster",
-		"gregSeen": false,
-		"saraSeen": false
-	},
-	{	
-		"title": "Allegiant",
-		"gregSeen": false,
-		"saraSeen": false
-	},
-	{	
 		"title": "Finding Dory",
 		"gregSeen": false,
-		"saraSeen": false
-	},
-	{
-		"title": "Lord of the Rings, The Return of the King",
-		"gregSeen": true,
 		"saraSeen": false
 	},
 	{
@@ -103,7 +58,32 @@ var movies = [
 		"title": "Snowden",
 		"gregSeen": false,
 		"saraSeen": false
-	}
+	},
+	{
+		"title": "Troubled Water",
+		"gregSeen": true,
+		"saraSeen": false
+	},
+	{
+		"title": "Fantastic Beasts",
+		"gregSeen": false,
+		"saraSeen": false
+	},
+	{
+        "title": "Rogue One",
+        "gregSeen": false,
+        "saraSeen": false
+    },
+	{
+        "title": "Hell or High Water",
+        "gregSeen": false,
+        "saraSeen": false
+    },
+    {
+        "title": "Manchester by the Sea",
+        "gregSeen": false,
+        "saraSeen": false
+    }    
 ];
 
 function returnAll(){

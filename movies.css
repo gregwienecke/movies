@@ -37,6 +37,7 @@ h2 {
 
 .choice:hover {
 	background-color: #ddd;
+	cursor: pointer;
 }
 
 /* buttons */
